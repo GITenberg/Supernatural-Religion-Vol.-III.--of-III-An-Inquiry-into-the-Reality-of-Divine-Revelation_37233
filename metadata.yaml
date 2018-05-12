@@ -1,0 +1,32 @@
+_repo: Supernatural-Religion-Vol.-III.--of-III-An-Inquiry-into-the-Reality-of-Divine-Revelation_37233
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cassels, Walter Richard
+    alias: Cassels, Walter R.
+    birthdate: 1826
+    deathdate: 1907
+    gutenberg_agent_id: '3468'
+    url: http://www.gutenberg.org/2009/agents/3468
+    wikipedia: http://homepages.ihug.co.nz/~freethought/cassels/bio.htm
+description: ''
+gutenberg_issued: '2011-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+- !lcsh 'Bible. New Testament -- Criticism, interpretation, etc.'
+- !lcsh 'Miracles'
+- !lcc 'BL'
+- !lcsh 'Supernatural'
+title: "Supernatural Religion, Vol. 3 (of 3)\r\nAn Inquiry into the Reality of Divine\
+  \ Revelation"
+url: http://www.gutenberg.org/ebooks/37233
