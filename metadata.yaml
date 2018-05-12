@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3468
     wikipedia: http://homepages.ihug.co.nz/~freethought/cassels/bio.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37233#Supernatural-Religion-Vol.-III.--of-III-An-Inquiry-into-the-Reality-of-Divine-Revelation
 gutenberg_issued: '2011-08-28'
 gutenberg_type: Text
 identifiers:
